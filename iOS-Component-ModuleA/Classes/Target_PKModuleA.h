@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Target_PKModuleA : NSObject
 
-- (UIViewController *)action_viewController:(NSDictionary *)params;
+- (UIViewController *)Action_viewController:(NSDictionary *)params;
 
 @end
 
