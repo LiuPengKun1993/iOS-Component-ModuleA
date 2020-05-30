@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOS-Component-ModuleA'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'iOS 组件化练习—— ModuleA'
 
 # This description is used to generate tags and improve search results.
