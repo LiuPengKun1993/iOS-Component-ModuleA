@@ -8,7 +8,13 @@
 
 #import "Target_PKModuleA.h"
 
+typedef void(^RouterCallBack)(NSString *);
+
+@interface Target_PKModuleA ()
+
 @property (nonatomic, copy) RouterCallBack callback;
+
+@end
 
 @implementation Target_PKModuleA
 
